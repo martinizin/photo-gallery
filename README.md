@@ -2,7 +2,7 @@ INTEGRANTES
 - JIMENEZ MARTIN
 - NOVILLO ISMAEL
 
-cONCLUSIONES 
+CONCLUSIONES 
 1. El empleo de Ionic con Angular permite un desarrollo rápido y eficiente de aplicaciones móviles debido a su extenso conjunto de componentes predefinidos junto a su integración con Angular facilita la codificación de funciones y estilos para el desarrollo sin la necesidad de escribir código desde cero.
 2. El desarrollo de la gallería de  fotos empleando Ionic facilita el desarrollo para que funcionan tanto en Android como en iOS con una sola base de código beneficiando a la aplicación, ya que garantiza una experiencia de usuario consistente en múltiples dispositivos y reduce significativamente el tiempo de desarrollo.
 3. Mediante el empleo de Capacitor, se puede acceder a las funcionalidades nativas del dispositivo, como la cámara, el almacenamiento y el sistema de archivos, de manera sencilla siendo factible para una aplicación de galería de fotos, ya que se necesita acceder y manipular las fotos almacenadas en el dispositivo del usuario.
