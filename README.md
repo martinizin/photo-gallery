@@ -2,7 +2,7 @@ INTEGRANTES
 - JIMENEZ MARTIN
 - NOVILLO ISMAEL
 
--- Capturas de pantalla
+- Capturas de pantalla
 - Aplicación en ejecución
 - ![image](https://github.com/martinizin/photo-gallery/assets/117743846/088e25ca-6578-4a25-ae8d-9b9a518d0053)
 
@@ -13,7 +13,8 @@ INTEGRANTES
 
 - SplashScreen
 
-- 
+- ![image](https://github.com/martinizin/photo-gallery/assets/117743846/7885b214-c52c-4a20-a929-1750b762937d)
+
 
 CONCLUSIONES 
 1. El empleo de Ionic con Angular permite un desarrollo rápido y eficiente de aplicaciones móviles debido a su extenso conjunto de componentes predefinidos junto a su integración con Angular facilita la codificación de funciones y estilos para el desarrollo sin la necesidad de escribir código desde cero.
