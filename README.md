@@ -2,6 +2,19 @@ INTEGRANTES
 - JIMENEZ MARTIN
 - NOVILLO ISMAEL
 
+-- Capturas de pantalla
+- Aplicación en ejecución
+- ![image](https://github.com/martinizin/photo-gallery/assets/117743846/088e25ca-6578-4a25-ae8d-9b9a518d0053)
+
+- Función borrado
+- ![image](https://github.com/martinizin/photo-gallery/assets/117743846/c7b27683-f656-46dc-ba17-6f57b9b758fe)
+
+- ![image](https://github.com/martinizin/photo-gallery/assets/117743846/1803f009-dca5-4f71-841f-8af4df5407eb)
+
+- SplashScreen
+
+- 
+
 CONCLUSIONES 
 1. El empleo de Ionic con Angular permite un desarrollo rápido y eficiente de aplicaciones móviles debido a su extenso conjunto de componentes predefinidos junto a su integración con Angular facilita la codificación de funciones y estilos para el desarrollo sin la necesidad de escribir código desde cero.
 2. El desarrollo de la gallería de  fotos empleando Ionic facilita el desarrollo para que funcionan tanto en Android como en iOS con una sola base de código beneficiando a la aplicación, ya que garantiza una experiencia de usuario consistente en múltiples dispositivos y reduce significativamente el tiempo de desarrollo.
